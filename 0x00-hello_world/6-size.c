@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
+ *main - this program prints various types on the computer and runs on
  *
- *Return 0 (Success)
+ *Return: 0 (Success)
  */
 
 int main(void)
