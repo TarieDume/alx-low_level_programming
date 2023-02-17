@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 
@@ -6,7 +6,7 @@
  * main - Print the last degit of a random number
  * compare if it's greater than 5,less than 6 or 0
  *
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
