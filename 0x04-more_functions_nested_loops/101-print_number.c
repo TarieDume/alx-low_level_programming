@@ -4,7 +4,7 @@
 /**
  * print_number - prints an integer.
  * @n: input integer.
- * Return: no return.
+ * Return: 0
  */
 void print_number(int n)
 {
@@ -33,4 +33,6 @@ void print_number(int n)
 	{
 		putchar(((m / count) % 10) + 48);
 	}
+	return (0)
+
 }
