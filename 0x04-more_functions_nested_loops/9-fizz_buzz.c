@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -22,4 +21,5 @@ int main(void)
 		putchar(start == end ? '\n' : ' ');
 		start++;
 	}
+	return (0);
 }
