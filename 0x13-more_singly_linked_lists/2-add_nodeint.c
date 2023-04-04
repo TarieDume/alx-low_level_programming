@@ -2,7 +2,7 @@
 
 /**
  * add_nodeint -  function that adds a new node at the beginning of a list.
- * @h: head of list.
+ * @head: head of list.
  * @n: n element.
  * Return: NULL if it failed otherwise the address of the new element.
  */
