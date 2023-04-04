@@ -7,6 +7,7 @@
  *struct listint_s - singly linked lists
  *@n: integer
  *@next: points to the next node
+ *Description: singly linked list project
  */
 typedef struct listint_s
 {
